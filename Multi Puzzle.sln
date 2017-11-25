@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Puzzle.Plugins", "Multi Puzzle.Plugins.csproj", "{82837051-887B-D3CA-9E6B-D76DB053F41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Puzzle", "Multi Puzzle.csproj", "{E71EE126-8600-E8E1-723A-551EB4F4E25B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi Puzzle.Editor.Plugins", "Multi Puzzle.Editor.Plugins.csproj", "{6BB591E5-5432-277E-3277-1C82DB0A606A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82837051-887B-D3CA-9E6B-D76DB053F41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82837051-887B-D3CA-9E6B-D76DB053F41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82837051-887B-D3CA-9E6B-D76DB053F41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82837051-887B-D3CA-9E6B-D76DB053F41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71EE126-8600-E8E1-723A-551EB4F4E25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71EE126-8600-E8E1-723A-551EB4F4E25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71EE126-8600-E8E1-723A-551EB4F4E25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71EE126-8600-E8E1-723A-551EB4F4E25B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB591E5-5432-277E-3277-1C82DB0A606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB591E5-5432-277E-3277-1C82DB0A606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB591E5-5432-277E-3277-1C82DB0A606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB591E5-5432-277E-3277-1C82DB0A606A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

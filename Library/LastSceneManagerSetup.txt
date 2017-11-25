@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UI Template/Main Menu.unity
+- path: Assets/Word Puzzle/Word Puzzle Game.unity
   isLoaded: 1
   isActive: 1
