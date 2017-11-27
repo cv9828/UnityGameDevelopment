@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 847, y: 492}
   m_MaxSize: {x: 28012, y: 14042}
   vertical: 0
-  controlID: 184
+  controlID: 13
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 466, y: 492}
   m_MaxSize: {x: 20006, y: 14042}
   vertical: 1
-  controlID: 118
+  controlID: 14
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,7 +158,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 119
+  controlID: 15
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -179,13 +179,13 @@ MonoBehaviour:
     height: 353
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -234,7 +234,7 @@ MonoBehaviour:
   m_MinSize: {x: 466, y: 271}
   m_MaxSize: {x: 20006, y: 10021}
   vertical: 0
-  controlID: 142
+  controlID: 93
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -366,19 +366,19 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 22
+    x: 8
     y: 100
     width: 604
     height: 332
   m_SceneLighting: 1
   lastFramingTime: 3078.337968476895
-  m_2DMode: 0
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -316.57828, y: 139.73706, z: -339.83014}
+    m_Target: {x: 290.8044, y: 143.35608, z: -322.87903}
     speed: 2
-    m_Value: {x: -316.57828, y: 139.73706, z: -339.83014}
+    m_Value: {x: 290.8044, y: 143.35608, z: -322.87903}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -393,25 +393,25 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-    zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
   m_Rotation:
-    m_Target: {x: 0, y: 0.7071066, z: 0, w: 0.7071066}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 0.7071066, z: 0, w: 0.7071066}
+    m_Value: {x: 0, y: 0, z: 0, w: 0.99999994}
   m_Size:
-    m_Target: 8.709838
+    m_Target: 309.36786
     speed: 2
-    m_Value: 8.709838
+    m_Value: 309.36786
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: 0, y: 0.7071066, z: 0, w: 0.7071066}
   m_LastSceneViewOrtho: 0
@@ -549,9 +549,9 @@ MonoBehaviour:
     height: 332
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a2f0000
-    m_LastClickedID: 12154
-    m_ExpandedIDs: a4fbffff00000000d62c0000762d00006a2e0000
+    m_SelectedIDs: 7e2f0000
+    m_LastClickedID: 12158
+    m_ExpandedIDs: 32f6ffff00000000102f0000322f00007e2f00001e300000e030000012310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,13 +644,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Word Puzzle
   m_LastFoldersGridSize: 72
-  m_LastProjectPath: C:\Users\charlestonvictorino\backup\UnityGameDevelopment
+  m_LastProjectPath: C:\Users\charlestonvictorino\CS430\UnityGameDevelopment
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 43}
-    m_SelectedIDs: 0a2a0000
-    m_LastClickedID: 10762
-    m_ExpandedIDs: 000000004828000078280000a02900000a2a0000182a0000222a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 27}
+    m_SelectedIDs: 882d0000
+    m_LastClickedID: 11656
+    m_ExpandedIDs: 00000000102c0000362c0000402d0000882d0000942d00009c2d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -678,7 +678,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004828000078280000a02900000a2a0000182a0000222a0000
+    m_ExpandedIDs: 00000000102c0000362c0000402d0000882d0000942d00009c2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +730,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 257.5}
+    m_ScrollPosition: {x: 0, y: 313}
     m_GridSize: 72
   m_DirectoriesAreaWidth: 121
 --- !u!114 &21
@@ -851,13 +851,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Word Puzzle
   m_LastFoldersGridSize: 72
-  m_LastProjectPath: C:\Users\charlestonvictorino\backup\UnityGameDevelopment
+  m_LastProjectPath: C:\Users\charlestonvictorino\CS430\UnityGameDevelopment
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 43}
-    m_SelectedIDs: 0a2a0000
-    m_LastClickedID: 10762
-    m_ExpandedIDs: 000000004828000078280000a02900000a2a0000182a0000222a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 27}
+    m_SelectedIDs: 882d0000
+    m_LastClickedID: 11656
+    m_ExpandedIDs: 00000000102c0000362c0000402d0000882d0000942d00009c2d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -885,7 +885,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004828000078280000a02900000a2a0000182a0000222a0000
+    m_ExpandedIDs: 00000000102c0000362c0000402d0000882d0000942d00009c2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1036,7 +1036,7 @@ MonoBehaviour:
     y: 100
     width: 308
     height: 603
-  m_ScrollPosition: {x: 0, y: 328.76367}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 331
