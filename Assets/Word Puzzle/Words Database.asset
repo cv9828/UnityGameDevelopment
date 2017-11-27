@@ -40,6 +40,7 @@ MonoBehaviour:
     question: A system that consists of a hardware device and an operating system
       that an application, program or process runs upon.
     image: {fileID: 21300000, guid: bf40ae054c7b62b438c0d151ad150086, type: 3}
-  - word: test
-    question: test
+  - word: Register
+    question: ' One of a small set of data holding places that are part of the computer
+      processor.'
     image: {fileID: 21300074, guid: 71ae9cf2cbddbbf46afcc9b7c0ab1d27, type: 3}
