@@ -14,32 +14,32 @@ MonoBehaviour:
   words:
   - word: Decode
     question: To discover the meaning of a message writen in a code.
-    image: {fileID: 21300000, guid: 21bcbcd90116f5841bc86656726519b0, type: 3}
+    image: {fileID: 21300000, guid: a96256e0a715fbc4ea6e647d2785f264, type: 3}
   - word: Server
     question: A software program, or the computer on which that program runs, that
       provides a specific kind of service to client software running on the same computer
       or other computers on a network.
-    image: {fileID: 21300000, guid: 2ef55792ca63d714a8c6fe8663ca5c9d, type: 3}
+    image: {fileID: 21300000, guid: a5948ae300265014798a3e3decec4c61, type: 3}
   - word: Heap
     question: A specialized tree-based data structure that satisfies the heap property.
-    image: {fileID: 21300000, guid: 21bcbcd90116f5841bc86656726519b0, type: 3}
+    image: {fileID: 21300000, guid: 793e3ebfee14fb84dbc155392a52736f, type: 3}
   - word: Memory
     question: Any physical device capable of storing information temporarily or permanently.
-    image: {fileID: 21300000, guid: addbf6c65ff3c17449ab41b1608b1ccf, type: 3}
+    image: {fileID: 21300000, guid: b2f7fa5d17ad20e438db83b17a4d1754, type: 3}
   - word: Software
     question: ' All information processed by computer systems, programs and data. '
-    image: {fileID: 21300000, guid: 4d7fd957c2fd7754e919e35efa5f6422, type: 3}
+    image: {fileID: 21300000, guid: f44bd0a355f6f4c4ab6968408e9eaaa3, type: 3}
   - word: Data
     question: 'Facts or figures, or information that''s stored in or used by a computer. '
-    image: {fileID: 21300000, guid: 5150d97127f659e4aaf1e992473c8e21, type: 3}
+    image: {fileID: 21300000, guid: 59e0ecd46622c454b9e039a858e606de, type: 3}
   - word: Program
     question: A collection of instructions that performs a specific task when executed
       by a computer.
-    image: {fileID: 21300000, guid: 454bafea8e774b745abf74918f7ae31d, type: 3}
+    image: {fileID: 21300000, guid: d029b77cde3beac48b60b3ef46aa7426, type: 3}
   - word: Platform
     question: A system that consists of a hardware device and an operating system
       that an application, program or process runs upon.
-    image: {fileID: 21300000, guid: bf40ae054c7b62b438c0d151ad150086, type: 3}
+    image: {fileID: 21300000, guid: e43a6e8ee7123cd4588a240aeb438387, type: 3}
   - word: Register
     question: ' One of a small set of data holding places that are part of the computer
       processor.'
