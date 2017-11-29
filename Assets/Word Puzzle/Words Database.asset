@@ -36,11 +36,11 @@ MonoBehaviour:
     question: A collection of instructions that performs a specific task when executed
       by a computer.
     image: {fileID: 21300000, guid: d029b77cde3beac48b60b3ef46aa7426, type: 3}
+  - word: Register
+    question: ' One of a small set of data holding places that are part of the computer
+      processor.'
+    image: {fileID: 21300000, guid: ec6f048ef2a8d2049a076fe7bda7a663, type: 3}
   - word: Platform
     question: A system that consists of a hardware device and an operating system
       that an application, program or process runs upon.
     image: {fileID: 21300000, guid: e43a6e8ee7123cd4588a240aeb438387, type: 3}
-  - word: Register
-    question: ' One of a small set of data holding places that are part of the computer
-      processor.'
-    image: {fileID: 21300074, guid: 71ae9cf2cbddbbf46afcc9b7c0ab1d27, type: 3}
